@@ -1,6 +1,6 @@
 body
 {
-  color: blue;
+  color: red;
   text-align: center;
   font-family: "Times New Roman";
 }
@@ -13,7 +13,7 @@ body
 }
 #container
 {
-  width: 70%;
+  width: 80%;
   padding: 1em;
   text-align: left;
   border: 1px solid #DDD;
